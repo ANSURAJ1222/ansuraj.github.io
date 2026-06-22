@@ -275,6 +275,11 @@ body{
     color:var(--text-primary);
     text-decoration: none;
 }
+.projects {
+    text-decoration: none;
+    color: inherit;
+    display: block;
+}
 #b2:hover{
     border-color:var(--accent);
     color:var(--accent);
